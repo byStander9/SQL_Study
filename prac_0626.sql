@@ -43,9 +43,6 @@ DESC friend;
 -- Delete table
 DROP TABLE friend;
 
--- Insert new values matching the number of fields and type
-INSERT INTO mem VALUES (1, 'jm_J', '정민재', 'M', '100-011', '춘천시 삭주로 16길', '234-8879', 24);
-INSERT INTO mem VALUES (2, 'mmm', '김민재', 'F', '100-012', '서울시 광진구', '234-8880', 28);
 
 -- Create table using AUTO_INCREMENT
 CREATE TABLE friend_auto (
