@@ -1,3 +1,3 @@
-# WebAppPrac
-studying SQL, JDBC, ~~
+# SQL Study
+studying SQL Lang
 
