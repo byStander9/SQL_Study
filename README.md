@@ -1,4 +1,3 @@
-# mySQL
-studying_SQL
+# WebAppPrac
+studying SQL, JDBC, ~~
 
-basic SQL codes with discriptions
